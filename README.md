@@ -53,7 +53,7 @@ We have all come across ATMs in our cities and it is built on Java. This complex
 
 ## Get in Touch
 
-- 📫 You can reach me via email at your@email.com.
+- 📫 You can reach me via email at basakupangshu70@gmail.com.
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/upangshu-basak-74620b28a/)).
 
 I'm always open to collaboration and eager to learn from others, so feel free to connect!
